@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BiPolian
+- 👀 I’m interested in all things web development,
+- 🌱 I’m currently learning the process of front end development.
+- 💞️ Not looking to collaborate on anything at this point in time, as I am currently in the learning stage of my journey
+- 📫 If there is any advice that anyone is willing to pass on to someone that is starting off, don't hesitate to send me an email. windsorkerr@protonmail.com
